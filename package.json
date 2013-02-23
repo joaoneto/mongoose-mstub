@@ -7,7 +7,7 @@
     "test": "test"
   },
   "scripts": {
-    "test": "node_modules/.bin/mocha --reporter spec --watch"
+    "test": "node_modules/.bin/mocha --reporter spec"
   },
   "repository": {
     "type": "git",
