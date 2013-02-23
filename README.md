@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/joaoneto/mongoose-mstub.png?branch=master)](https://travis-ci.org/joaoneto/mongoose-mstub)
+
 # mongoose-mstub
 This is a lightweight method stub for mongoose models.
 
