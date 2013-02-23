@@ -1,0 +1,32 @@
+{
+  "name": "mongoose-mstub",
+  "version": "0.0.1",
+  "description": "Lightweight method stub for mongoose models",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node_modules/.bin/mocha --reporter spec --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/joaoneto/mongoose-mstub.git"
+  },
+  "keywords": [
+    "mongoose",
+    "model",
+    "stub",
+    "test",
+    "mocha"
+  ],
+  "author": "João Neto",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "devDependencies": {
+    "mocha": "~1.8.1",
+    "should": "~1.2.2",
+    "mongoose": "~3.5.5"
+  },
+  "dependencies": {}
+}
